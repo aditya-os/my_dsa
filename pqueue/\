@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<stdlib.h>
+void pq_init(int size);
+void pq_max();
+
+
+
+int main()
+{
+		
+	return 0;
+}
